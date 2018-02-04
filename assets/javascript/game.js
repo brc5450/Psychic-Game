@@ -38,7 +38,7 @@
     }
         // Creating a variable to hold new HTML. HTML now keeps track of the user and computer guesses, and wins/losses/guesses left/guesses so far.
         var html = "<h1>The Psychic Game</h1>" +
-        "<p>Guess what letter I'm thinking of!</p>" +
+        "<p>Guess what letter I'm thinking of ?</p>" +
         "<p>Total Wins: " +
         wins +
         "</p>" +
